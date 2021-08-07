@@ -1,14 +1,13 @@
-<div>
-  <h2 align="center">
-    Hi, I'm Lucas Santos!
-  </h2>
-  <p align="center">
+<div align="center">
+  <img width="80%" src="assets/reach_steins_gate.gif" />
+  <h2>Hi, I'm Lucas Santos!</h2>
+  <p>
     Sou formado em ADS na UniVS, após alguns experimentos acabei descobrindo que sou apaixonado por desenvolvimento android, desde então sigo estudando e me aprimorando cada vez mais.
   </p>
 </div>
 
 ### <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
-<img align="right" width="270" src="https://gifimage.net/wp-content/uploads/2018/11/steins-gate-portrsit-gif-8.gif" />
+<img align="right" width="270" src="assets/changing_universe_lines.gif" />
 
 ```kotlin
 object Lucas {
@@ -19,7 +18,6 @@ object Lucas {
  
 }
 ```
-
 
 ### **Linguagens e Ferramentas:**  
 
