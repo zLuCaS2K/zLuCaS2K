@@ -30,7 +30,7 @@ object Lucas {
 
 ### **GitHub Estatísticas**
 <a href="https://github.com/zLuCaS2K">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=zLuCaS2K&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?   username=zLuCaS2K&hide_border=true&show_icons=true&title_color=ddd&icon_color=ddd&text_color=fff&bg_color=222&langs_count=11&hide=html"/>
 </a>
 
 <br/>
