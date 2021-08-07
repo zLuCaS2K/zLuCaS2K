@@ -1,9 +1,6 @@
 <div align="center">
   <img width="80%" src="assets/reach_steins_gate.gif" />
-  <h2>Hi, I'm Lucas Santos!</h2>
-  <p>
-    Sou formado em ADS na UniVS, após alguns experimentos acabei descobrindo que sou apaixonado por desenvolvimento android, desde então sigo estudando e me aprimorando cada vez mais.
-  </p>
+  <h2>Lucas Santos</h2>
 </div>
 
 ### <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
