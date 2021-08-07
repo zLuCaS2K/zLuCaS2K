@@ -1,16 +1,55 @@
-### Hi there 👋
+<div>
+  <p align="center">
+    <img width="250" src="https://gifimage.net/wp-content/uploads/2018/11/steins-gate-portrsit-gif-8.gif" />
+  </p>
+  <h2 align="center">
+    Hi, I'm Lucas Santos!
+  </h2>
+  <p align="center">
+    Sou formado em ADS na UniVS, após alguns experimentos acabei descobrindo que sou apaixonado por desenvolvimento android, desde então sigo estudando e me aprimorando cada vez mais.
+  </p>
+</div>
 
-<!--
-**zLuCaS2K/zLuCaS2K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-Here are some ideas to get you started:
+```kotlin
+object Lucas {
+ val name = "José Lucas da Silva Santos"
+ val acknowledgements = "Android Kotlin Developer"
+ 
+ val languages = listOf("Kotlin", "Java", "JavaScript")
+ 
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Linguagens e Ferramentas:**  
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+
+### **GitHub Estatísticas**
+<a href="https://github.com/zLuCaS2K">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=zLuCaS2K&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
+
+<br/>
+<br/>
+
+<div>
+  <!-- Gmail --->
+  <a href = "mailto:LuucasSantos.Dev@Gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <!-- Instagram --->
+  <a href="https://instagram.com/luucas_dev" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <!-- Linkedin --->
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+</div>
