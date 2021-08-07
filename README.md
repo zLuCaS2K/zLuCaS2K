@@ -1,7 +1,4 @@
 <div>
-  <p align="center">
-    <img width="250" src="https://gifimage.net/wp-content/uploads/2018/11/steins-gate-portrsit-gif-8.gif" />
-  </p>
   <h2 align="center">
     Hi, I'm Lucas Santos!
   </h2>
@@ -11,6 +8,7 @@
 </div>
 
 ### <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+<img align="right" width="250" src="https://gifimage.net/wp-content/uploads/2018/11/steins-gate-portrsit-gif-8.gif" />
 
 ```kotlin
 object Lucas {
@@ -21,6 +19,7 @@ object Lucas {
  
 }
 ```
+
 
 ### **Linguagens e Ferramentas:**  
 
