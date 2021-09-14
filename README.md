@@ -26,7 +26,7 @@
 </div>
 
 ## **Sobre mim:**
-<img align="right" alt="GIF" height="120px" src="assets/reach_steins_gate.gif" />
+<img align="right" alt="GIF" height="110px" src="assets/reach_steins_gate.gif" />
 
 - 🌱 Estou estudando Jetpack Compose e Clean Architecture.
 - 💼 Atualmente estou a procura de minha primeira oportunidade de trabalho.
