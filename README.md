@@ -31,7 +31,7 @@
 - 🌱 Estou estudando Jetpack Compose e Clean Architecture.
 - 💼 Atualmente estou a procura de minha primeira oportunidade de trabalho.
 - 🎓 Análise e Desenvolvimento de Sistemas - UniVS 2021.
-- 📝 Meu currículo: [CV - 14/09/2021]()
+- 📝 Meu currículo: [CV - 14/09/2021](https://github.com/zLuCaS2K/zLuCaS2K/blob/main/assets/CV.pdf)
 ---
 
 ### **Linguagens e Ferramentas:**  
