@@ -24,30 +24,3 @@
   <i>"Eu sei que um dia vamos alcançar o mundo que merecemos."</i>
   <i>- Makise Kurisu</i>
 </div>
-
-## **Sobre mim:**
-<img align="right" alt="GIF" height="110px" src="assets/reach_steins_gate.gif" />
-
-- 🌱 Estou estudando Jetpack Compose e Clean Architecture.
-- 💼 Atualmente estou a procura de minha primeira oportunidade de trabalho.
-- 🎓 Análise e Desenvolvimento de Sistemas - UniVS 2021.
-- 📝 Meu currículo: [CV - 14/09/2021](https://github.com/zLuCaS2K/zLuCaS2K/blob/main/assets/CV.pdf)
----
-
-### **Linguagens e Ferramentas:**  
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-
-### **GitHub Estatísticas**
-<a href="https://github.com/zLuCaS2K">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zLuCaS2K&hide_border=true&show_icons=true&title_color=ddd&icon_color=ddd&text_color=fff&bg_color=222&langs_count=11&hide=html"/>
-</a>
-<br/>
-
-![Snake animation](https://github.com/zLuCaS2K/zLuCaS2K/blob/output/github-contribution-grid-snake.svg)
-<hr>
