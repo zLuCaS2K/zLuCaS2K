@@ -24,3 +24,4 @@
   <i>"Eu sei que um dia vamos alcançar o mundo que merecemos."</i>
   <i>- Makise Kurisu</i>
 </div>
+<hr>
